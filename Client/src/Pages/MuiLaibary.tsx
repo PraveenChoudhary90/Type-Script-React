@@ -3,7 +3,7 @@
 const MuiLaibariy = ()=>{
     return(
         <>
-        <h1>Page</h1>
+        
         </>
     )
 }
