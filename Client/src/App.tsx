@@ -7,6 +7,7 @@ import About from './Pages/About'
 import Display from './Pages/Display'
 import Coomon from './Coomon/Coomon'
 import MuiLaibariy from './Pages/MuiLaibary'
+import Button from './Pages/Button'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Route path='display' element={<Display/>}/>
       <Route path='coomon' element={<Coomon/>}/>
       <Route path='mui' element={<MuiLaibariy/>}/>
+      <Route path='button' element={<Button/>}/>
       </Route>
     </Routes>
     </BrowserRouter>

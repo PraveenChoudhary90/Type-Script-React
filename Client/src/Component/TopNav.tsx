@@ -16,6 +16,7 @@ const TopNav = ()=>{
             <Nav.Link as={Link} to="display">Display</Nav.Link>
             <Nav.Link as={Link} to="coomon">Coomon</Nav.Link>
             <Nav.Link as={Link} to="mui">Mui</Nav.Link>
+            <Nav.Link as={Link} to="button">Button Mui</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
