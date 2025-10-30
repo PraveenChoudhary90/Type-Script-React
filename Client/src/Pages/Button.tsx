@@ -5,7 +5,8 @@ import AddIcon from '@mui/icons-material/Add';
 import EditIcon from '@mui/icons-material/Edit';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import NavigationIcon from '@mui/icons-material/Navigation';
-import { Typography } from '@mui/material';
+import {Grid, Typography } from '@mui/material';
+
 
 function Button() {
   return (
@@ -28,7 +29,33 @@ function Button() {
     <Typography variant="h6" style={{fontStyle:"italic"}} sx={{color:"red"}} component="h2">
   this is materiyal ui
 </Typography>
+
+<Grid>
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+    <img src="vite.svg" alt="frist" width="300" height="300" />
+</Grid>
  
+
+
+
+
+
+   
+  
 
     </>
   )
